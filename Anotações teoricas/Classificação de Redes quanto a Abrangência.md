@@ -1,36 +1,43 @@
-# na aula de classificação de redes Classificações de redes quanto à abrangência eu entendi alguns conceitos importantes
+# Classificações de redes quanto à abrangência
 
-<h3>Escala Pessoal (No corpo ou em volta)</h3>
-NFC: Comunicação por aproximação extrema (centímetros). - (Near Field Communication ou Comunicação de campo próximo)
+<h2>Escala Pessoal (No corpo ou em volta)</h2>
+NFC: Comunicação por aproximação extrema (centímetros). <br> (Near Field Communication ou Comunicação de campo próximo) <br>
 Exemplo: Pagar o ônibus ou o café encostando o celular na maquininha.
+<hr>
 
-BAN: Rede no corpo. Sensores colados ou dentro de você.
+BAN: Rede no corpo. Sensores colados ou dentro de você. <br>
 (Body Area Network ou Rede de área corporal)
 Exemplo: Um marca-passo inteligente ou sensores médicos que mandam dados do seu coração para o celular.
+<hr>
 
 PAN / WPAN:(cerca de 10 metros). O "W" é apenas para versões sem fio (Wireless).
 (Personal Area Network ou Rede de área pessoal)
 Exemplo: Conectar seu fone Bluetooth ao seu celular.
+<hr>
 
 NAN (Near-me): Rede de dispositivos próximos que não necessariamente se conhecem.
 (Near-me Area Network ou Rede de área próxima a mim)
 Exemplo: Encontrar pessoas para jogar ou trocar arquivos.
+<hr>
 
 <h3>Escala Residencial e Predial (Sua casa ou escritório)</h3>
 LAN / WLAN: Rede local. O Wi-Fi da sua casa ou o cabo de rede do escritório.
 (Wireless Local Area Network ou Rede local sem fio)
 (Local Area Network ou Rede local)
 Exemplo: computador conectado ao roteador da sala.
-<br>
+<hr>
+
 HAN: É uma LAN focada especificamente no ambiente doméstico.
 (Home Area Network ou Rede caseira)
 Exemplo: Sua TV, geladeira inteligente e Alexa conversando entre si em casa.
+<hr>
 
 SAN: Rede exclusiva para "guardar dados" (armazenamento).
 
 Exemplo: Grandes empresas que conectam vários HDs gigantes a um servidor para não lotar a rede comum.
+<hr>
 
-3. Escala Urbana (Cidades e Campus)
+<h2>Escala Urbana (Cidades e Campus)</h2>
 CAN: Rede que conecta vários prédios de uma mesma instituição.
 
 Exemplo: O Wi-Fi que funciona em todos os blocos de uma universidade ou em uma fábrica grande.
